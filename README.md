@@ -1,4 +1,3 @@
 ## Welcome to GitHub Pages
 
-### visit my portfolio
-![visit](https://royninja.github.io)
+### visit my portfolio [visit](https://royninja.github.io)
