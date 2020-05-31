@@ -2,6 +2,7 @@
   display: flex;
   flex-wrap: wrap;
   padding: 0 4px;
+  margin-bottom: 5%;
 }
 
 /* Create four equal columns that sits next to each other */
@@ -22,6 +23,7 @@
   .column {
     flex: 50%;
     max-width: 50%;
+    margin-bottom: 5px;
   }
 }
 
@@ -30,5 +32,6 @@
   .column {
     flex: 100%;
     max-width: 100%;
+    margin-bottom: 5%;
   }
 }
